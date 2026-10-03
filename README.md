@@ -9,7 +9,7 @@ Este é o canal público de distribuição do **Lunares**, anteriormente chamado
 
 As cópias publicadas até a **2.74.22** conferem o endereço antigo do repositório. Elas recusam o redirecionamento para o novo nome, por isso a atualização automática desse canal fica interrompida nessas cópias.
 
-A correção do endereço está sendo integrada no código. Ela só chegará ao aplicativo instalado em uma **nova versão assinada e publicada**. Quando essa versão estiver disponível, baixe seu instalador nesta página e use o fluxo de atualização, preservando os perfis e conversas. **Reinstalar a 2.74.22 não corrige o endereço do atualizador.** Este aviso não anuncia uma nova versão disponível.
+A correção do endereço foi integrada no código-fonte em [dbf6a7f3](https://github.com/yStellae/Lunares/commit/dbf6a7f32ca8228453888bf98282d3e401027124). Ela só chegará ao aplicativo instalado em uma **nova versão assinada e publicada**. Quando essa versão estiver disponível, baixe seu instalador nesta página e use o fluxo de atualização, preservando os perfis e conversas. **Reinstalar a 2.74.22 não corrige o endereço do atualizador.** Este aviso não anuncia uma nova versão disponível.
 
 A versão **2.74.22** existente, publicada em 02/10/2026, continua em [sua Release](https://github.com/yStellae/Lunaresp2p/releases/tag/v2.74.22). Em 03/10/2026 foram conferidos publicamente a assinatura do manifesto, a rotação da chave e todos os bytes do instalador:
 
